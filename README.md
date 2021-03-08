@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, My name is Dima 👋 ![FollowBadge](https://img.shields.io/github/followers/DimaTc?label=Follow&style=social)  
+### Nice to see you here 😄 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DimaTc.DimaTc)  
 
-<!--
-**DimaTc/DimaTc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer, currently in the 3rd year of my software engineering degree.  I love building stuff, learning something new,  traveling, and gaming 🎮
 
-Here are some ideas to get you started:
+ ![progressBar](https://progress-bar.dev/3/?scale=4&title=Degree%20Progress&suffix=Y)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm currently working on projects & assignments for the degree 
+- 📫 How to reach me: dima.tch.contact@gmail.com  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaTc)](https://github.com/DimaTc/github-readme-stats)
+
+
+
