@@ -8,7 +8,7 @@ I'm a Software Engineer, currently in the last year of my software engineering d
 - 🏫 I'm currently working on projects & assignments for the degree 
 - 📫 How to reach me: dima.tch.contact@gmail.com  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaTc)](https://github.com/DimaTc/github-readme-stats)
-
-
+### Most Used Languages
+<!-- {Start Statistics} -->
+<!-- {Stop Statistics} -->
 
