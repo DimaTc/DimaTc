@@ -10,5 +10,14 @@ I'm a Software Engineer, currently in the last year of my software engineering d
 
 ### Most Used Languages
 <!-- {Start Statistics} -->
+|||
+|---|---|
+| Java | [███████░░░░░░░░░░░░░] 34.22% |
+| JavaScript | [██████░░░░░░░░░░░░░░] 29.46% |
+| TypeScript | [███░░░░░░░░░░░░░░░░░] 12.60% |
+| Python | [██░░░░░░░░░░░░░░░░░░] 9.79% |
+| HTML | [██░░░░░░░░░░░░░░░░░░] 9.25% |
+| CSS | [█░░░░░░░░░░░░░░░░░░░] 4.68% |
+|||
 <!-- {Stop Statistics} -->
 
