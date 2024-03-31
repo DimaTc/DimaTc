@@ -28,8 +28,17 @@ With expertise in Python, React, Node, and more, I develop both front-end and ba
 
 #### 📈 GitHub Stats:
 <!-- LANGS:START -->
+|||
+|---|---|
+| Java | [███████░░░░░░░░░░░░░] 34.13% |
+| JavaScript | [██████░░░░░░░░░░░░░░] 29.66% |
+| TypeScript | [███░░░░░░░░░░░░░░░░░] 12.57% |
+| Python | [██░░░░░░░░░░░░░░░░░░] 9.76% |
+| HTML | [██░░░░░░░░░░░░░░░░░░] 9.22% |
+| CSS | [█░░░░░░░░░░░░░░░░░░░] 4.66% |
+|||
 <!-- LANGS:END -->
-<!-- DATE:START -->
+<!-- DATE:START -->Last Updated: March 31, 2024 at 10:27:23 PM UTC
 <!-- DATE:END -->
 *Statistics are automatically generated with [readme-stats-updater](https://github.com/marketplace/actions/readme-stats-updater).*
 
