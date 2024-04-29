@@ -30,15 +30,15 @@ With expertise in Python, React, Node, and more, I develop both front-end and ba
 <!-- LANGS:START -->
 |||
 |---|---|
-| Java | [███████░░░░░░░░░░░░░] 34.13% |
-| JavaScript | [██████░░░░░░░░░░░░░░] 29.66% |
-| TypeScript | [███░░░░░░░░░░░░░░░░░] 12.57% |
-| Python | [██░░░░░░░░░░░░░░░░░░] 9.76% |
-| HTML | [██░░░░░░░░░░░░░░░░░░] 9.22% |
-| CSS | [█░░░░░░░░░░░░░░░░░░░] 4.66% |
+| Java | [██████████░░░░░░░░░░] 50.79% |
+| JavaScript | [████░░░░░░░░░░░░░░░░] 21.90% |
+| TypeScript | [██░░░░░░░░░░░░░░░░░░] 9.28% |
+| Python | [█░░░░░░░░░░░░░░░░░░░] 7.21% |
+| HTML | [█░░░░░░░░░░░░░░░░░░░] 7.17% |
+| CSS | [█░░░░░░░░░░░░░░░░░░░] 3.65% |
 |||
 <!-- LANGS:END -->
-<!-- DATE:START -->Last Updated: April 28, 2024 at 12:43:04 AM UTC
+<!-- DATE:START -->Last Updated: April 29, 2024 at 12:40:19 AM UTC
 <!-- DATE:END -->
 *Statistics are automatically generated with [readme-stats-updater](https://github.com/marketplace/actions/readme-stats-updater).*
 
