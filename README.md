@@ -30,15 +30,16 @@ With expertise in Python, React, Node, and more, I develop both front-end and ba
 <!-- LANGS:START -->
 |||
 |---|---|
-| Java | [██████████░░░░░░░░░░] 50.79% |
-| JavaScript | [████░░░░░░░░░░░░░░░░] 21.90% |
-| TypeScript | [██░░░░░░░░░░░░░░░░░░] 9.28% |
-| Python | [█░░░░░░░░░░░░░░░░░░░] 7.21% |
-| HTML | [█░░░░░░░░░░░░░░░░░░░] 7.17% |
-| CSS | [█░░░░░░░░░░░░░░░░░░░] 3.65% |
+| HTML | [██████████░░░░░░░░░░] 47.51% |
+| Jupyter Notebook | [████████░░░░░░░░░░░░] 39.63% |
+| Java | [█░░░░░░░░░░░░░░░░░░░] 7.04% |
+| JavaScript | [█░░░░░░░░░░░░░░░░░░░] 3.03% |
+| TypeScript | [░░░░░░░░░░░░░░░░░░░░] 1.29% |
+| Python | [░░░░░░░░░░░░░░░░░░░░] 1.00% |
+| CSS | [░░░░░░░░░░░░░░░░░░░░] 0.51% |
 |||
 <!-- LANGS:END -->
-<!-- DATE:START -->Last Updated: March 19, 2026 at 01:25:10 AM UTC
+<!-- DATE:START -->Last Updated: March 20, 2026 at 01:19:59 AM UTC
 <!-- DATE:END -->
 *Statistics are automatically generated with [readme-stats-updater](https://github.com/marketplace/actions/readme-stats-updater).*
 
